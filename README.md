@@ -1,5 +1,6 @@
 # Jeu_de_logique
-Jeu de réflexion et de logique
+
+## Règle du Jeu
 
 Deux joueurs s’affrontent sur un plateau carré comportant n lignes et n colonnes, où n est un entier pair. Par défaut n = 8.
 
